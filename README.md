@@ -6,7 +6,7 @@
 
 # AppCat  
 
-This repository has k8s tools to manage AppCat services.
+This repository has k8s tools to manage AppCat services. 
 
 Documentation: https://vshn.github.io/appcat
 
